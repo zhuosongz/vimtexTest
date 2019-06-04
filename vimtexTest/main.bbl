@@ -1,0 +1,128 @@
+\begin{thebibliography}{25}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Cai and Guo(2015)}]{Ca15C}
+Cai, T.~T. and Guo, Z. (2015). \emph{Confidence intervals for high-dimensional
+  linear regression: Minimax rates and adaptivity}. \emph{arXiv preprint
+  arXiv:1506.05539}.
+
+\bibitem[{Chatterjee and Shao(2011)}]{Ch11Nb}
+Chatterjee, S. and Shao, Q.-M. (2011). \emph{NONNORMAL APPROXIMATION BY STEIN'S
+  METHOD OF EXCHANGEABLE PAIRS WITH APPLICATION TO THE CURIE---WEISS MODEL}.
+  \emph{The Annals of applied probability}, pp. 464--483.
+
+\bibitem[{Chen et~al.(2013)Chen, Fang and Shao}]{Ch13M}
+Chen, L. H.~Y., Fang, X. and Shao, Q.-M. (2013). \emph{Moderate deviations in
+  {P}oisson approximation: a first attempt}. \emph{Statist. Sinica},
+  \textbf{23}(4), pp. 1523--1540.
+
+\bibitem[{Chen(2015)}]{Ch15V}
+Chen, W.-K. (2015). \emph{Variational representations for the Parisi functional
+  and the two-dimensional Guerra-Talagrand bound}. \emph{arXiv preprint
+  arXiv:1501.06635}.
+
+\bibitem[{Fontes et~al.(2000)Fontes, Mathieu and Picco}]{Fo00A}
+Fontes, L.~R., Mathieu, P. and Picco, P. (2000). \emph{On the averaged dynamics
+  of the random field {C}urie-{W}eiss model}. \emph{Ann. Appl. Probab.},
+  \textbf{10}(4), pp. 1212--1245.
+
+\bibitem[{Fowler and Rushbrooke(1937)}]{Fo37A}
+Fowler, R.~H. and Rushbrooke, G.~S. (1937). \emph{An attempt to extend the
+  statistical theory of perfect solutions}. \emph{Trans. Faraday Soc.},
+  \textbf{33}, pp. 1272--1294.
+
+\bibitem[{G{\"o}tze(1987)}]{Go87A}
+G{\"o}tze, F. (1987). \emph{Approximations for multivariate U-statistics}.
+  \emph{Journal of multivariate analysis}, \textbf{22}(2), pp. 212--229.
+
+\bibitem[{Harper(2009)}]{Ha09T0}
+Harper, A.~J. (2009). \emph{Two new proofs of the Erd{\"o}s--Kac Theorem, with
+  bound on the rate of convergence, by Stein's method for distributional
+  approximations}. In \emph{Mathematical Proceedings of the Cambridge
+  Philosophical Society}, vol. 147, pp. 95--114, Cambridge University Press.
+
+\bibitem[{Hoeffding(1948)}]{Ho48A}
+Hoeffding, W. (1948). \emph{A class of statistics with asymptotically normal
+  distribution}. \emph{The annals of mathematical statistics}, pp. 293--325.
+
+\bibitem[{Iacobelli and K{\"u}lske(2010)}]{Ia10M}
+Iacobelli, G. and K{\"u}lske, C. (2010). \emph{Metastates in finite-type
+  mean-field models: visibility, invisibility, and random restoration of
+  symmetry}. \emph{J. Stat. Phys.}, \textbf{140}(1), pp. 27--55.
+
+\bibitem[{Li and Solea(2017)}]{Li17A}
+Li, B. and Solea, E. (2017). \emph{A nonparametric graphical model for
+  functional data with application to brain networks based on fMRI}.
+  \emph{Journal of the American Statistical Association}, (just-accepted).
+
+\bibitem[{Linnik and Mitrofanova(1963)}]{Li63A}
+Linnik, Y.~V. and Mitrofanova, N. (1963). \emph{On the asymptotic distribution
+  of maximum likelihood estimates}. \emph{Doklady Akademii Nauk SSSR},
+  \textbf{149}, pp. 518--520.
+
+\bibitem[{L{\"o}we and Meiners(2012)}]{Lo12M}
+L{\"o}we, M. and Meiners, R. (2012). \emph{Moderate deviations for random field
+  {C}urie-{W}eiss models}. \emph{J. Stat. Phys.}, \textbf{149}(4), pp.
+  701--721.
+
+\bibitem[{L{\"o}we et~al.(2013)L{\"o}we, Meiners and Torres}]{Lo13L}
+L{\"o}we, M., Meiners, R. and Torres, F. (2013). \emph{Large deviations
+  principle for {C}urie-{W}eiss models with random fields}. \emph{J. Phys. A},
+  \textbf{46}(12), pp. 125004, 10.
+
+\bibitem[{Luk(1994)}]{Lu94S}
+Luk, H.~M. (1994). \emph{Stein's method for the Gamma distribution and related
+  statistical applications}. ProQuest LLC, Ann Arbor, MI, thesis
+  (Ph.D.)--University of Southern California.
+
+\bibitem[{Mathieu and Picco(1998)}]{Ma98M}
+Mathieu, P. and Picco, P. (1998). \emph{Metastability and convergence to
+  equilibrium for the random field {C}urie-{W}eiss model}. \emph{J. Statist.
+  Phys.}, \textbf{91}(3-4), pp. 679--732.
+
+\bibitem[{McLachlan and Krishnan(2007)}]{Mc07T}
+McLachlan, G. and Krishnan, T. (2007). \emph{The EM algorithm and extensions},
+  vol. 382. John Wiley \&amp; Sons.
+
+\bibitem[{Michel and Pfanzagl(1971)}]{Mi71T}
+Michel, R. and Pfanzagl, J. (1971). \emph{The accuracy of the normal
+  approximation for minimum contrast estimates}. \emph{Zeitschrift f{\"u}r
+  Wahrscheinlichkeitstheorie und Verwandte Gebiete}, \textbf{18}(1), pp.
+  73--84.
+
+\bibitem[{Petrov(1975)}]{Pe75S}
+Petrov, V.~V. (1975). \emph{Sums of independent random variables}.
+  Springer-Verlag, New York-Heidelberg, translated from the Russian by A. A.
+  Brown, Ergebnisse der Mathematik und ihrer Grenzgebiete, Band 82.
+
+\bibitem[{Pfanzagl(1971)}]{Pf71T}
+Pfanzagl, J. (1971). \emph{The {B}erry-{E}sseen bound for minimum contrast
+  estimates}. \emph{Metrika}, \textbf{17}(1), pp. 82--91.
+
+\bibitem[{{Roberts}(1938)}]{Ro38S}
+{Roberts}, J.~K. (1938). \emph{{Some properties of mobile and immobile adsorbed
+  films}}. \emph{Proceedings of the Cambridge Philosophical Society},
+  \textbf{34}, p. 399.
+
+\bibitem[{Salinas and Wreszinski(1985)}]{Sa85M}
+Salinas, S.~R. and Wreszinski, W.~F. (1985). \emph{On the mean-field {I}sing
+  model in a random external field}. \emph{J. Statist. Phys.},
+  \textbf{41}(1-2), pp. 299--313.
+
+\bibitem[{Simon and Griffiths(1973)}]{Si734}
+Simon, B. and Griffiths, R.~B. (1973). \emph{The $(\phi^{4})_{2}$ field theory
+  as a classical Ising model}. \emph{Comm. Math. Phys.}, \textbf{33}(2), pp.
+  145--164.
+
+\bibitem[{Stein(1972)}]{St72B}
+Stein, C. (1972). \emph{A bound for the error in the normal approximation to
+  the distribution of a sum of dependent random variables}. In
+  \emph{Proceedings of the Sixth Berkeley Symposium on Mathematical Statistics
+  and Probability}, vol.~2, pp. 583--602, Berkeley: University of California
+  Press.
+
+\bibitem[{Tenenbaum and Tenenbaum(1995)}]{Te95I}
+Tenenbaum, G. and Tenenbaum, G. (1995). \emph{Introduction to analytic and
+  probabilistic number theory}, vol.~46. Cambridge university press Cambridge.
+
+\end{thebibliography}
